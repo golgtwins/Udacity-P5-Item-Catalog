@@ -1,4 +1,4 @@
-# Udacity Full Stack Nanodegree Project5: Item Catalog
+# Udacity Full Stack Nanodegree Project 5: Item Catalog
 NHL Teams (Item Catalog) application built with Flask.
 
 A web application that provides a list of items within a category. Users can sign in using google sign-in and add/edit/delete Items.
